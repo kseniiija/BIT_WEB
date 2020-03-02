@@ -1,0 +1,18 @@
+/* .drugi{
+    background-color: green;
+}
+.list{
+    background-color: red;
+}
+.new-list{
+    background-color: blue;
+    text-transform: uppercase;
+} */
+
+.slide img {
+    display: none;
+}
+
+.slide img.active {
+    display: block;
+}
