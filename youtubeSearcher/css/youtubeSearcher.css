@@ -1,0 +1,37 @@
+body{
+    background-image: url(../images/bg.jpg);
+}
+#logo{
+    width: 100px;
+    height: auto;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.row.playvideo{
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.videos{
+    margin: 5px;
+    padding: 5px;
+    color:  white;   
+}
+.video{
+    text-align: center;
+    width: 300px;
+}
+iframe{
+    border-radius: 15px;
+}
+
+
+
